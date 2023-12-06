@@ -1,0 +1,36 @@
+﻿@model IEnumerable<AppMediTech.Models.Cita>
+
+<h2>Citas</h2>
+
+<p>
+    <a asp-action="Create">Crear Nueva Cita</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Fecha</th>
+            <th>Hora</th>
+            <th>Motivo</th>
+            <th>Paciente</th>
+            <th>Doctor</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Fecha</td>
+                <td>@item.Hora</td>
+                <td>@item.Motivo</td>
+                <td>@item.Paciente.Nombre</td>
+                <td>@item.Doctor.Nombre</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.CitaID">Editar</a> |
+                    <a asp-action="Details" asp-route-id="@item.CitaID">Detalles</a> |
+                    <a asp-action="Delete" asp-route-id="@item.CitaID">Eliminar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

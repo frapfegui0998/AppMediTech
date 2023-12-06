@@ -1,0 +1,30 @@
+﻿@{
+    ViewData["Title"] = "Inicio";
+}
+
+<h2>Bienvenido a MediTech</h2>
+
+<p>
+    MediTech es líder en servicios de atención médica, ofreciendo una amplia gama de servicios médicos especializados.
+    Aquí puedes gestionar tus citas médicas de manera eficiente y segura.
+</p>
+
+<h3>Servicios</h3>
+<ul>
+    <li>Programación de citas médicas en línea</li>
+    <li>Acceso a un equipo de doctores especializados</li>
+    <li>Seguimiento y gestión de tu historial médico</li>
+</ul>
+
+<h3>Acciones Usuarios</h3>
+<ul>
+    <li><a asp-controller="Cita" asp-action="Create">Programar una Nueva Cita</a></li>
+    <li><a asp-controller="Paciente" asp-action="Create">Registrarse como Paciente</a></li>
+</ul>
+
+<h3>Gestión</h3>
+<ul>
+    <li><a asp-controller="Cita" asp-action="Index">Ver y Gestionar Citas</a></li>
+    <li><a asp-controller="Doctor" asp-action="Index">Gestionar Doctores</a></li>
+    <li><a asp-controller="Paciente" asp-action="Index">Gestionar Pacientes</a></li>
+</ul>

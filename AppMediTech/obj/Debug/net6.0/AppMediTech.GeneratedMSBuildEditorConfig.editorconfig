@@ -1,0 +1,105 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = AppMediTech
+build_property.RootNamespace = AppMediTech
+build_property.ProjectDir = C:\Users\frapf\OneDrive\Desktop\CasoPracticoII_FranzPfeiffer\AppMediTech\AppMediTech\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\frapf\OneDrive\Desktop\CasoPracticoII_FranzPfeiffer\AppMediTech\AppMediTech
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/frapf/OneDrive/Desktop/CasoPracticoII_FranzPfeiffer/AppMediTech/AppMediTech/Views/Cita/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0YVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/frapf/OneDrive/Desktop/CasoPracticoII_FranzPfeiffer/AppMediTech/AppMediTech/Views/Cita/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0YVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/frapf/OneDrive/Desktop/CasoPracticoII_FranzPfeiffer/AppMediTech/AppMediTech/Views/Cita/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0YVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/frapf/OneDrive/Desktop/CasoPracticoII_FranzPfeiffer/AppMediTech/AppMediTech/Views/Cita/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0YVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/frapf/OneDrive/Desktop/CasoPracticoII_FranzPfeiffer/AppMediTech/AppMediTech/Views/Cita/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0YVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/frapf/OneDrive/Desktop/CasoPracticoII_FranzPfeiffer/AppMediTech/AppMediTech/Views/Doctor/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/frapf/OneDrive/Desktop/CasoPracticoII_FranzPfeiffer/AppMediTech/AppMediTech/Views/Doctor/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/frapf/OneDrive/Desktop/CasoPracticoII_FranzPfeiffer/AppMediTech/AppMediTech/Views/Doctor/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/frapf/OneDrive/Desktop/CasoPracticoII_FranzPfeiffer/AppMediTech/AppMediTech/Views/Doctor/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/frapf/OneDrive/Desktop/CasoPracticoII_FranzPfeiffer/AppMediTech/AppMediTech/Views/Doctor/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/frapf/OneDrive/Desktop/CasoPracticoII_FranzPfeiffer/AppMediTech/AppMediTech/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/frapf/OneDrive/Desktop/CasoPracticoII_FranzPfeiffer/AppMediTech/AppMediTech/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/frapf/OneDrive/Desktop/CasoPracticoII_FranzPfeiffer/AppMediTech/AppMediTech/Views/Paciente/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFjaWVudGVcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/frapf/OneDrive/Desktop/CasoPracticoII_FranzPfeiffer/AppMediTech/AppMediTech/Views/Paciente/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFjaWVudGVcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/frapf/OneDrive/Desktop/CasoPracticoII_FranzPfeiffer/AppMediTech/AppMediTech/Views/Paciente/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFjaWVudGVcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/frapf/OneDrive/Desktop/CasoPracticoII_FranzPfeiffer/AppMediTech/AppMediTech/Views/Paciente/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFjaWVudGVcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/frapf/OneDrive/Desktop/CasoPracticoII_FranzPfeiffer/AppMediTech/AppMediTech/Views/Paciente/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFjaWVudGVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/frapf/OneDrive/Desktop/CasoPracticoII_FranzPfeiffer/AppMediTech/AppMediTech/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/frapf/OneDrive/Desktop/CasoPracticoII_FranzPfeiffer/AppMediTech/AppMediTech/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/frapf/OneDrive/Desktop/CasoPracticoII_FranzPfeiffer/AppMediTech/AppMediTech/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/frapf/OneDrive/Desktop/CasoPracticoII_FranzPfeiffer/AppMediTech/AppMediTech/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/frapf/OneDrive/Desktop/CasoPracticoII_FranzPfeiffer/AppMediTech/AppMediTech/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-jljt0mv2m7
